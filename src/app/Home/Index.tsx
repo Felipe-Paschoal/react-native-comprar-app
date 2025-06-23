@@ -5,7 +5,7 @@ export default function Home() {
     <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
       <Image
         style={{ height: 34, width: 134 }}
-        source={require('../../assets/logo.png')}
+        source={require('@/assets/logo.png')}
       />
     </View>
   );
