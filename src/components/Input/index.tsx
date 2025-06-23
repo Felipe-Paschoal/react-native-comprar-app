@@ -12,6 +12,7 @@ export function Input({ ...rest }: TextInputProps) {
         borderWidth: 1,
         borderColor: '#C3C5CB',
       }}
+      placeholderTextColor="#74798B"
       {...rest}
     />
   );
